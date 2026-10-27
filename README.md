@@ -4,6 +4,8 @@ A lightweight AI orchestration system with strict client–server separation.
 
 Pysitant keeps the client lightweight and controlled while delegating reasoning and code generation to a VPS backend. It combines project-context building, model abstraction, and request routing to support AI-assisted codebase exploration.
 
+🌐 Live Website: https://pysistant.duckdns.org/
+
 ## ✅ Features
 
 - Modular model abstraction layer
